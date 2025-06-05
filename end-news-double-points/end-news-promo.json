@@ -1,0 +1,94 @@
+{
+    "id": 7146,
+    "name": "2025\/06\/01 SeasonPass_EndNews",
+    "type": "update_news_no_timer",
+    "featureType": "SeasonPass",
+    "created": "2025-05-19 15:03:45",
+    "updated": "2025-05-26 12:41:03",
+    "from": "2025-06-11 07:00:00",
+    "to": "2025-06-15 07:00:00",
+    "actual": "2025-06-15 07:00:00",
+    "active": true,
+    "awards": [],
+    "quests": [],
+    "parameters": {
+        "window": "fc_gui_978_season_pass_end_news",
+        "icon": "fc_gui_848_season_pass_end_news_icon",
+        "iconKey": "#SEASONPASS_END_WARNING_NAME",
+        "header": "#SEASONPASS_END_WARNING_NAME",
+        "rewardKey": "#DIALOG_TUTORIAL_2",
+        "slidesCount": 1,
+        "slideHeader1": "#SEASONPASS_END_WARNING_DESC_3",
+        "slideText1_1": "#SEASONPASS_END_WARNING_DESC_1",
+        "slideDesc1_1": "#SEASONPASS_END_WARNING_DESC_2",
+        "btnHelpKey": "#MOVE_TO",
+        "isHeaderSingleLine": 1,
+        "isSlideHeaderSingleLine": 1,
+        "hiderParams": {
+            "color": "0x153754",
+            "alpha": "0.7"
+        },
+        "locations": [
+            "def",
+            "winter",
+            "nagor",
+            "valley",
+            "peski",
+            "buhta",
+            "cookland"
+        ],
+        "extenders": [
+            {
+                "type": "SeasonPassEndNewsExtender",
+                "params": []
+            }
+        ]
+    },
+    "tags": [],
+    "filters": [
+        {
+            "type": "Level",
+            "conditions": {
+                "from": {
+                    "value": 10,
+                    "compare": ">="
+                },
+                "to": null
+            }
+        },
+        {
+            "type": "ActionContain",
+            "conditions": {
+                "actions": {
+                    "items": [
+                        51127
+                    ],
+                    "compare": "any"
+                }
+            }
+        },
+        {
+            "type": "ActionContain",
+            "conditions": {
+                "actions": {
+                    "items": [
+                        51127,
+                        51150
+                    ],
+                    "compare": "not"
+                }
+            }
+        }
+    ],
+    "triggers": [],
+    "top": [],
+    "sort": 0,
+    "season": null,
+    "backlog": null,
+    "is_coop": false,
+    "removedItems": {
+        "before": [],
+        "after": [],
+        "restart": []
+    }
+}

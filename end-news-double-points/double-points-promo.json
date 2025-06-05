@@ -1,0 +1,81 @@
+{
+    "id": 7145,
+    "name": "2025\/06\/01 SeasonPass_DoublePoints",
+    "type": "simple",
+    "featureType": "SeasonPass",
+    "created": "2025-05-19 15:03:48",
+    "updated": "2025-05-26 12:41:03",
+    "from": "2025-06-11 07:00:00",
+    "to": "2025-06-15 07:00:00",
+    "actual": "2025-06-15 07:00:00",
+    "active": true,
+    "awards": [],
+    "quests": [],
+    "parameters": {
+        "headerKey": "#SEASONPASS_DOUBLEPOINTS_NAME",
+        "iconKey": "#SEASON_CHANGE_ANNOUNCE_WINTER_ICON",
+        "descKey": "#SEASON_CHANGE_ANNOUNCE_WINTER_DESC",
+        "window": "fc_gui_978_season_pass_double_points_info",
+        "icon": "fc_gui_698_new_season_candy_to_bauble_2019_icon",
+        "iconAlias": "fc_gui_698_new_season_candy_to_bauble_2019_icon",
+        "hiderParams": {
+            "color": "0x153754",
+            "alpha": "0.7"
+        },
+        "hideIcon": true,
+        "settingsByConditions": [],
+        "controlSettings": [
+            {
+                "displayObject": "description",
+                "multi": 1,
+                "textKeyFit": "#SEASONPASS_DOUBLEPOINTS_DESC"
+            },
+            {
+                "displayObject": "btnShow\/txtYes",
+                "textKeyFit": "#SEASONPASS_DOUBLEPOINTS_REDIRECT_BTN"
+            },
+            {
+                "displayObject": "",
+                "customController": "DoublePointsController"
+            },
+            {
+                "displayObject": "coin_icon",
+                "itemThumb": {
+                    "id": 17909
+                }
+            },
+            {
+                "displayObject": "bg1",
+                "visible": 0
+            },
+            {
+                "displayObject": "bg2",
+                "visible": 1
+            }
+        ]
+    },
+    "tags": [],
+    "filters": [
+        {
+            "type": "Level",
+            "conditions": {
+                "from": {
+                    "value": 10,
+                    "compare": ">="
+                },
+                "to": null
+            }
+        }
+    ],
+    "triggers": [],
+    "top": [],
+    "sort": 0,
+    "season": null,
+    "backlog": null,
+    "is_coop": false,
+    "removedItems": {
+        "before": [],
+        "after": [],
+        "restart": []
+    }
+}

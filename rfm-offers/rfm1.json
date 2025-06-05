@@ -1,0 +1,99 @@
+{
+    "id": 7147,
+    "name": "2025\/06\/01 SeasonPass_OfferSingle600-RFM1",
+    "type": "random_quests",
+    "featureType": "SeasonPass",
+    "created": "2025-05-19 15:01:39",
+    "updated": "2025-05-19 15:35:20",
+    "from": "2025-06-12 07:00:00",
+    "to": "2025-06-13 07:00:00",
+    "actual": "2025-06-15 07:00:00",
+    "active": true,
+    "awards": [
+        51153
+    ],
+    "quests": [],
+    "parameters": {
+        "panelQuestController": "SingleOfferController",
+        "checkAvailableAwards": 1,
+        "awardQuestCharacterName": "Alice",
+        "awardQuestPanel": [
+            "fc_gui_978_season_pass_reward_window",
+            "fc_gui_978_season_pass_reward_window"
+        ],
+        "hiderParams": {
+            "color": "0x153754",
+            "alpha": "0.7"
+        },
+        "controlSettings": [
+            {
+                "displayObject": "slot1\/discount",
+                "textKeyFit": "-15%"
+            },
+            {
+                "displayObject": "slot1\/count",
+                "textKeyFit": "x350"
+            },
+            {
+                "displayObject": "slot1\/txtCost",
+                "textKeyFit": "14"
+            }
+        ],
+        "headerKey": "#SPECIAL_OFFER",
+        "icon": "fc_gui_902_season_pass_points_offer_single_icon",
+        "iconKey": "#SPECIAL_OFFER_HEADER",
+        "time_pressing": 172800,
+        "window": "fc_gui_978_season_pass_points_offer_single",
+        "settingsByConditions": [
+            {
+                "conditions": {
+                    "isNotInOneOfRFM30Segments": "non-payer,need-to-reactivate,fry,smelt"
+                },
+                "forceEnd": true
+            },
+            {
+                "conditions": {
+                    "hasNotAwards": [
+                        51118
+                    ]
+                },
+                "forceEnd": true
+            },
+            {
+                "conditions": {
+                    "hasItems": [
+                        {
+                            "count": 600,
+                            "itemID": 17908
+                        }
+                    ]
+                },
+                "forceEnd": true
+            }
+        ]
+    },
+    "tags": [],
+    "filters": [
+        {
+            "type": "Level",
+            "conditions": {
+                "from": {
+                    "value": 10,
+                    "compare": ">="
+                },
+                "to": null
+            }
+        }
+    ],
+    "triggers": [],
+    "top": [],
+    "sort": 0,
+    "season": null,
+    "backlog": null,
+    "is_coop": false,
+    "removedItems": {
+        "before": [],
+        "after": [],
+        "restart": []
+    }
+}

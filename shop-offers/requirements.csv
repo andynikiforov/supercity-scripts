@@ -1,0 +1,5 @@
+alias,Action,Offer,Price,Award_points(17909),Award_techitem(17907),NeedResources(17907)
+passOffer,51117,42288,$4.99,,,
+mainOffer,51150,42290,$5.99,15,14,
+subscriptionOffer,51148,42289,$1.99,15,14,
+Выдача очков подписки,51149,,,10,,1

@@ -1,0 +1,4323 @@
+{
+    "id": 7142,
+    "name": "2025\/06\/01 SeasonPass",
+    "type": "random_quests",
+    "featureType": "SeasonPass",
+    "created": "2025-05-19 14:59:02",
+    "updated": "2025-05-19 15:35:20",
+    "from": "2025-06-01 07:00:00",
+    "to": "2025-06-15 07:00:00",
+    "actual": "2025-06-15 07:00:00",
+    "active": true,
+    "awards": [
+        51118,
+        51119,
+        51120,
+        51121,
+        51122,
+        51123,
+        51124,
+        51125,
+        51126,
+        51127,
+        51128,
+        51129,
+        51130,
+        51131,
+        51132,
+        51133,
+        51134,
+        51135,
+        51136,
+        51137,
+        51138,
+        51139,
+        51140,
+        51141,
+        51142,
+        51143,
+        51144,
+        51145,
+        51146,
+        51147,
+        51151,
+        51152
+    ],
+    "quests": [
+        {
+            "type": "random",
+            "id": 0,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2147
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 1,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2147
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 2,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2147
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 3,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2147
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 4,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2148
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 5,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2148
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 6,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2148
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 7,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2148
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 8,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2149
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 9,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2149
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 10,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2149
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 11,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2149
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 12,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2150
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 13,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2150
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 14,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2150
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 15,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2150
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 16,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2151
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 17,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2151
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 18,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2151
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 19,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    2151
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 7,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": true,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 20,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15076
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 21,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15077
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 22,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15078
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 25,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 25,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 23,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15079
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 24,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15080
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 25,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15081
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 26,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15082
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 27,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15083
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 28,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15084
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 60,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 60,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 29,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15085
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 30,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15086
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 31,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15087
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 32,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15088
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 33,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15089
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 35,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 35,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 34,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15090
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 35,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15091
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 36,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15092
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 37,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15093
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 25,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 25,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 38,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15094
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 39,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15095
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 40,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15096
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 41,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15097
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 42,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15098
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 43,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15099
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 44,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15100
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 45,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15101
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 46,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15102
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 47,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15103
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 35,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 35,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 48,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15104
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 49,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15105
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 50,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15106
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 51,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15107
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 52,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15108
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 25,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 25,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 53,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15109
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 54,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15110
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 50,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 55,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15111
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 56,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15112
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 57,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15113
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 58,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15114
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 59,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15115
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 60,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15116
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 61,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15117
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 62,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15118
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 63,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15119
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 64,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15120
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 65,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15121
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 35,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 35,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 66,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15122
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 25,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 25,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 67,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15123
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 68,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15124
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 69,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15125
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 70,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15126
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 45,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 71,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15127
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 30,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 72,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15128
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 73,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15129
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 74,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15130
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 75,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15131
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 40,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 76,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15069
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 20,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 20,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 77,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15070
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 20,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 20,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 78,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15068
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 20,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 20,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 79,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15071
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 20,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 20,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        },
+        {
+            "type": "random",
+            "id": 80,
+            "exercises": {
+                "from": 1,
+                "to": 1,
+                "random": [],
+                "list": [
+                    15072
+                ],
+                "dynamic_complexity": []
+            },
+            "awards": {
+                "custom": [
+                    {
+                        "type": "item",
+                        "count": 20,
+                        "itemId": 17909
+                    },
+                    {
+                        "type": "item",
+                        "count": 20,
+                        "itemId": 17908
+                    }
+                ]
+            },
+            "timeouts": {
+                "common": {
+                    "timeout": 100000000,
+                    "skip_cost": 999
+                }
+            },
+            "restart": false,
+            "teamScoreMin": null,
+            "teamScoreMax": null
+        }
+    ],
+    "parameters": {
+        "iconPriority": 60,
+        "locations": [
+            "def",
+            "winter",
+            "nagor",
+            "valley",
+            "peski",
+            "buhta",
+            "cookland",
+            "expedition_014_001"
+        ],
+        "hiderParams": {
+            "color": "0x153754",
+            "alpha": "0.7"
+        },
+        "techItem": 17908,
+        "itemsToCashExchange": 35,
+        "promotionAwardMultiplier": 3,
+        "promotionAwardMultiplierTurnOn": "2025-06-10 07:00:00",
+        "battlepassAction": 51117,
+        "seasonPassActions": [
+            51117,
+            51150
+        ],
+        "buyWindowParams": {
+            "window": "fc_gui_978_buy_season_pass_window_options",
+            "reward_window": "fc_gui_978_season_pass_reward_window_v2",
+            "reward_window_character": "Li",
+            "subscription_window": "fc_gui_978_buy_season_pass_window_sub",
+            "header": "#SEASONPASS_BAY_OFFERS_NAME",
+            "mainOffer": {
+                "actionId": 51150,
+                "discount": 30,
+                "key": "#SEASONPASS_BAY_OFFER_3",
+                "subscriptionPromoId": 7144,
+                "duration": 604800
+            },
+            "passOffer": {
+                "actionId": 51117,
+                "key": "#SEASONPASS_BAY_OFFER_1_DESC",
+                "count": 15
+            },
+            "subscriptionOffer": {
+                "actionId": 51148,
+                "key": "#SEASONPASS_BAY_OFFER_2",
+                "firstAwardCount": 15,
+                "count": 10,
+                "itemId": 17909,
+                "subscriptionPromoId": 7144,
+                "duration": 604800
+            }
+        },
+        "clanBonusTypes": {
+            "default": {
+                "condition": null,
+                "bonus": [
+                    {
+                        "type": "cash",
+                        "count": 2
+                    }
+                ]
+            }
+        },
+        "battlepassAwardsIndexes": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+        ],
+        "buyKeyWindow": "fc_gui_978_buy_season_pass_window_list",
+        "buyKeyRender": "fc_gui_978_buy_season_pass_window_item",
+        "buyKeyScrollbarSkin": "fc_gui_978_buy_season_pass_scrollbar_skin",
+        "buyKeyPurchaseDone": "fc_gui_978_season_pass_purchase_done",
+        "rewardPreviewWindow": "fc_gui_978_reward_preview",
+        "questsScrollbarSkin": "fc_gui_978_scrollbar_skin",
+        "checkShowAwardBoxPanel": true,
+        "controlSettings": [
+            {
+                "displayObject": "ttRules\/desc0",
+                "multi": 1,
+                "textKeyFit": "#SEASONPASS_RULL_1"
+            },
+            {
+                "displayObject": "ttRules\/desc1",
+                "multi": 1,
+                "textKeyFit": "#SEASONPASS_RULL_2"
+            },
+            {
+                "displayObject": "ttRules\/desc2",
+                "multi": 1,
+                "textKeyFit": "#SEASONPASS_RULL_3"
+            },
+            {
+                "displayObject": "ttRules\/desc3",
+                "multi": 1,
+                "textKeyFit": "#SEASONPASS_RULL_4"
+            },
+            {
+                "displayObject": "ttRules\/desc4",
+                "multi": 1,
+                "textKeyFit": "#SEASONPASS_RULL_5"
+            }
+        ],
+        "customTooltipSettings": [],
+        "debug": false,
+        "descLocKey": "#SANDS_END_OF_STORY_DESC",
+        "dontStart": false,
+        "dontStop": true,
+        "autoCompleteQuests": false,
+        "expeditionActionExtender": [],
+        "headerKey": "#SEASONPASS_NAME",
+        "icon": "fc_gui_896_season_pass_icon",
+        "iconKey": "#SEASONPASS_NAME_ICON",
+        "itemsParentMc": "taskList",
+        "iconNotificationAsset": "fc_gui_012_map_icons_attention_bordered",
+        "isSafeInAwards": true,
+        "safeAwards": [
+            51151,
+            51152
+        ],
+        "mainAwardsIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ],
+        "featureSkinType": "basic",
+        "panelQuestController": "SeasonPassController",
+        "panelQuestControllerParams": [],
+        "noShowAwardWindow": true,
+        "manualPanelType": true,
+        "progressBarFullScale": 40,
+        "progressBarBgScale": 32,
+        "progress_mc": "progressBar",
+        "progress_txt": "txt_value",
+        "extenders": [
+            {
+                "type": "SeasonPassExtender",
+                "params": []
+            }
+        ],
+        "seasonPassQuestListParams": {
+            "questVisualisationParams": [],
+            "thirdPartQuests": [
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90
+            ],
+            "thirdPartListByLevel": [
+                {
+                    "levelFrom": 10,
+                    "levelTo": 29,
+                    "quests": []
+                },
+                {
+                    "levelFrom": 30,
+                    "levelTo": 59,
+                    "quests": []
+                },
+                {
+                    "levelFrom": 60,
+                    "levelTo": 99,
+                    "quests": []
+                },
+                {
+                    "levelFrom": 100,
+                    "levelTo": 10000,
+                    "quests": []
+                }
+            ],
+            "itemViewSourceName": "fc_gui_978_season_pass_task",
+            "dailyQuests": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "questsForExercises": {
+                "2147": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "2148": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "2149": [
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "2150": [
+                    12,
+                    13,
+                    14,
+                    15
+                ],
+                "2151": [
+                    16,
+                    17,
+                    18,
+                    19
+                ]
+            },
+            "dailyListByLevel": [
+                {
+                    "levelFrom": 10,
+                    "levelTo": 29,
+                    "weeks": {
+                        "1": [
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2147
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ]
+                        ],
+                        "2": [
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2147
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ]
+                        ],
+                        "3": [
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2147
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ]
+                        ],
+                        "4": [
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2147
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2147,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2147,
+                                2147,
+                                2149,
+                                2149
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "levelFrom": 30,
+                    "levelTo": 59,
+                    "weeks": {
+                        "1": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ]
+                        ],
+                        "2": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ]
+                        ],
+                        "3": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ]
+                        ],
+                        "4": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "levelFrom": 60,
+                    "levelTo": 99,
+                    "weeks": {
+                        "1": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ]
+                        ],
+                        "2": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ]
+                        ],
+                        "3": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ]
+                        ],
+                        "4": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "levelFrom": 100,
+                    "levelTo": 10000,
+                    "weeks": {
+                        "1": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ]
+                        ],
+                        "2": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ]
+                        ],
+                        "3": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ]
+                        ],
+                        "4": [
+                            [
+                                2148,
+                                2148,
+                                2148,
+                                2148
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2149
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2149,
+                                2150
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ],
+                            [
+                                2148,
+                                2148,
+                                2150,
+                                2151
+                            ]
+                        ]
+                    }
+                }
+            ],
+            "scrollBarSourceName": "fc_gui_978_season_pass_scrollbar",
+            "weeklyLength": [
+                7,
+                7,
+                7,
+                7
+            ],
+            "weeklyListByLevel": [
+                {
+                    "levelFrom": 10,
+                    "levelTo": 29,
+                    "weeks": {
+                        "1": [
+                            20,
+                            21,
+                            22,
+                            23,
+                            24,
+                            25,
+                            26
+                        ],
+                        "2": [
+                            27,
+                            28,
+                            29,
+                            30,
+                            31,
+                            32,
+                            33
+                        ]
+                    }
+                },
+                {
+                    "levelFrom": 30,
+                    "levelTo": 59,
+                    "weeks": {
+                        "1": [
+                            34,
+                            35,
+                            36,
+                            37,
+                            38,
+                            39,
+                            40
+                        ],
+                        "2": [
+                            41,
+                            42,
+                            43,
+                            44,
+                            45,
+                            46,
+                            47
+                        ]
+                    }
+                },
+                {
+                    "levelFrom": 60,
+                    "levelTo": 99,
+                    "weeks": {
+                        "1": [
+                            48,
+                            49,
+                            50,
+                            51,
+                            52,
+                            53,
+                            54
+                        ],
+                        "2": [
+                            55,
+                            56,
+                            57,
+                            58,
+                            59,
+                            60,
+                            61
+                        ]
+                    }
+                },
+                {
+                    "levelFrom": 100,
+                    "levelTo": 10000,
+                    "weeks": {
+                        "1": [
+                            62,
+                            63,
+                            64,
+                            65,
+                            66,
+                            67,
+                            68
+                        ],
+                        "2": [
+                            69,
+                            70,
+                            71,
+                            72,
+                            73,
+                            74,
+                            75
+                        ]
+                    }
+                }
+            ]
+        },
+        "perks": {
+            "2": [
+                35,
+                36,
+                37
+            ],
+            "3": [
+                20,
+                21,
+                22
+            ],
+            "4": [
+                14,
+                15,
+                16
+            ],
+            "5": [
+                41,
+                42,
+                43
+            ],
+            "6": [
+                17,
+                18,
+                19
+            ],
+            "7": [],
+            "8": []
+        },
+        "perkAssetName": "fc_gui_978_perk_item",
+        "awardAssetName": "fc_gui_978_pass_award",
+        "ratingItem": 17909,
+        "resetTimerAtStart": true,
+        "settingsByConditions": [],
+        "showMode": "oncePerDay",
+        "showTutorialParams": [
+            {
+                "type": "cutScene",
+                "on_start": {
+                    "type": "show_intro_panel"
+                },
+                "on_end": {
+                    "type": "dispatch_event",
+                    "params": {
+                        "event": "tryToStartSeasonPassBasicTutorial"
+                    }
+                },
+                "on_cancel": {
+                    "type": "dispatch_event",
+                    "params": {
+                        "event": "tryToStartSeasonPassBasicTutorial"
+                    }
+                },
+                "scene_arr": [
+                    {
+                        "bgColor": "#4A6614",
+                        "character": "Li",
+                        "character_type": "in_half_growth",
+                        "comicX": 360,
+                        "comicY": 150,
+                        "flip": 1,
+                        "iconX": 120,
+                        "iconY": 150,
+                        "locKey": "#SEASONPASS_TUTORIAL_1",
+                        "side": "right"
+                    },
+                    {
+                        "bgColor": "#4A6614",
+                        "character": "Li",
+                        "character_type": "in_half_growth",
+                        "comicX": 360,
+                        "comicY": 150,
+                        "flip": 1,
+                        "iconX": 120,
+                        "iconY": 150,
+                        "locKey": "#SEASONPASS_TUTORIAL_2",
+                        "side": "right"
+                    },
+                    {
+                        "bgColor": "#4A6614",
+                        "character": "Li",
+                        "character_type": "in_half_growth",
+                        "comicX": 360,
+                        "comicY": 150,
+                        "flip": 1,
+                        "iconX": 120,
+                        "iconY": 150,
+                        "locKey": "#SEASONPASS_TUTORIAL_3",
+                        "side": "right"
+                    }
+                ]
+            }
+        ],
+        "silentStart": true,
+        "todoListTriggerQuestStartHandle": false,
+        "tooltipsSettings": [],
+        "tutorialBasicPersonage": "Li",
+        "tutorialBasicPhrases": {
+            "1": "#SEASONPASS_TUTORIAL_1",
+            "2": "#SEASONPASS_TUTORIAL_2",
+            "3": "#SEASONPASS_TUTORIAL_3",
+            "4": "#SEASONAL_SEASONPASS_TUTORIAL_4",
+            "5": "#SEASONAL_SEASONPASS_TUTORIAL_5",
+            "6": "#SEASONAL_SEASONPASS_TUTORIAL_6",
+            "7": "#SEASONAL_SEASONPASS_TUTORIAL_7",
+            "8": "#SEASONPASS_TUTORIAL_8",
+            "9": "#SEASONAL_SEASONPASS_TUTORIAL_9",
+            "10": "#SEASONAL_SEASONPASS_TUTORIAL_10",
+            "11": "#SEASONAL_SEASONPASS_TUTORIAL_11",
+            "12": "#SEASONAL_SEASONPASS_TUTORIAL_12",
+            "13": "#SEASONPASS_TUTORIAL_13",
+            "14": "#SEASONAL_SEASONPASS_TUTORIAL_14",
+            "15": "#SEASONAL_SEASONPASS_TUTORIAL_15",
+            "16": "#SEASONAL_SEASONPASS_TUTORIAL_16",
+            "17": "#SEASONPASS_TUTORIAL_17"
+        },
+        "window": "fc_gui_978_season_pass",
+        "windowFrame": 1,
+        "intro": {
+            "window": "fc_gui_978_season_pass_welcome",
+            "desc": "#SEASONPASS_OPEN_WINDOW_DESC",
+            "y_offset": 0,
+            "btnKey": "#START"
+        },
+        "texts": {
+            "tab1": "#SEASONAL_SEASONPASS_TAB_1",
+            "tab2": "#SEASONPASS_TAB_2",
+            "tab3": "#SEASONPASS_TAB_3",
+            "titleDailyQuests": "#SEASONAL_SEASONPASS_DAILY_QUESTS",
+            "titleMonthQuests": "#SEASONAL_SEASONPASS_MONTH_QUESTS",
+            "titleEventQuests": "#SEASONAL_SEASONPASS_REFREASH_QUESTS",
+            "perkPageDesc": "#SEASONAL_BUY_SEASONPASS_PERK_DESC_1",
+            "awardPageDesc": "#SEASONAL_BUY_SEASONPASS_DESC_1",
+            "badgeName": "#SEASONAL_SEASONPASS_BAY_BADGE_NAME",
+            "badgeLock": "#SEASONAL_BUY_SEASONPASS_BTN",
+            "subscriptionName": "#SEASONPASS_BAY_OFFER_2_NAME",
+            "subscriptionDesc": "#SEASONPASS_BAY_OFFER_2",
+            "subscriptionDescEveryDay": "#SEASONPASS_BAY_OFFER_2_DESC_3",
+            "rule1": "#SEASONAL_SEASONPASS_RULL_1",
+            "rule2": "#SEASONAL_SEASONPASS_RULL_2",
+            "rule3": "#SEASONPASS_RULL_3",
+            "rule4": "#SEASONPASS_RULL_4",
+            "rule5": "#SEASONPASS_RULL_5",
+            "perkUnlockHint": "#BUY_SEASONPASS_LOCK"
+        }
+    },
+    "tags": [],
+    "filters": [
+        {
+            "type": "Level",
+            "conditions": {
+                "from": {
+                    "value": 10,
+                    "compare": ">="
+                },
+                "to": null
+            }
+        }
+    ],
+    "triggers": [],
+    "top": [],
+    "sort": 0,
+    "season": null,
+    "backlog": null,
+    "is_coop": false,
+    "removedItems": {
+        "before": [
+            15472,
+            15473,
+            15474,
+            15475,
+            15476,
+            15477,
+            15478,
+            15479,
+            15480,
+            15481,
+            15482,
+            15483,
+            15484,
+            15485,
+            15486,
+            15487,
+            15488,
+            15489,
+            15490,
+            15491,
+            15492,
+            15493,
+            15494,
+            15495,
+            15496,
+            15497,
+            15498,
+            15499,
+            15500,
+            15501,
+            15502,
+            15503,
+            15504,
+            15505,
+            15506,
+            15507,
+            15508,
+            15509,
+            15510,
+            15511,
+            15512,
+            15513,
+            15514,
+            15515,
+            15516,
+            15517,
+            15518,
+            15519,
+            15520,
+            15521,
+            15522,
+            15523,
+            15524,
+            15525,
+            15526,
+            15527,
+            15528,
+            15529,
+            15530,
+            15531,
+            15805,
+            15544,
+            15545,
+            15546,
+            15547,
+            15548,
+            15549,
+            15550,
+            15551,
+            15552,
+            15553,
+            15554,
+            15555,
+            15556,
+            15557,
+            15616,
+            15617,
+            15618,
+            15619,
+            15620,
+            15621,
+            15622,
+            15623,
+            15725,
+            15726,
+            15727,
+            15728,
+            15729,
+            15730,
+            17909,
+            17907,
+            17908
+        ],
+        "after": [],
+        "restart": []
+    }
+}

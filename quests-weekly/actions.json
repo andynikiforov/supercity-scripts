@@ -1,0 +1,1119 @@
+[
+    [
+        {
+            "#tag": "complexity",
+            "@id": 15076,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор паб",
+                    "itemId": 15476,
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 15,
+                    "maxValue": 15,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15077,
+            "#children": [
+                {
+                    "type": "have_buildings",
+                    "alias": "Иметь бизнесов",
+                    "buildingType": "business",
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 25,
+                    "maxValue": 25,
+                    "skipItem": 1,
+                    "source": "have_buildings"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15078,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор музей",
+                    "itemId": 15512,
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 4,
+                    "maxValue": 4,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15079,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Лен",
+                    "houseId": 41,
+                    "productionId": 5,
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 15,
+                    "maxValue": 15,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15080,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Желтый перец",
+                    "houseId": 45,
+                    "productionId": 5,
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 10,
+                    "maxValue": 10,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15081,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Футболка",
+                    "itemId": 10475,
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 7,
+                    "maxValue": 7,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15082,
+            "#children": [
+                {
+                    "type": "have_buildings",
+                    "alias": "Иметь жилых домиков",
+                    "buildingType": "simple",
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 40,
+                    "maxValue": 40,
+                    "skipItem": 1,
+                    "source": "have_buildings"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15083,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор булочная",
+                    "itemId": 16114,
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 16,
+                    "maxValue": 16,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15084,
+            "#children": [
+                {
+                    "type": "buy_any_expansions",
+                    "alias": "Купить любое расширение",
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 4,
+                    "maxValue": 4,
+                    "skipItem": 1,
+                    "source": "buy_any_expansions"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15085,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор администрация",
+                    "itemId": 15507,
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 4,
+                    "maxValue": 4,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15086,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Пшеница",
+                    "houseId": 45,
+                    "productionId": 6,
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 15,
+                    "maxValue": 15,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15087,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор Салон флористики",
+                    "itemId": 15474,
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 7,
+                    "maxValue": 7,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15088,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Тюль",
+                    "houseId": 41,
+                    "productionId": 2,
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 15,
+                    "maxValue": 15,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15089,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Обои",
+                    "houseId": 600,
+                    "productionId": 8,
+                    "minLevel": 10,
+                    "maxLevel": 29,
+                    "minValue": 12,
+                    "maxValue": 12,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15090,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор паб",
+                    "itemId": 15476,
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 14,
+                    "maxValue": 14,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15091,
+            "#children": [
+                {
+                    "type": "have_buildings",
+                    "alias": "Иметь бизнесов",
+                    "buildingType": "business",
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 30,
+                    "maxValue": 30,
+                    "skipItem": 1,
+                    "source": "have_buildings"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15092,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор музей",
+                    "itemId": 15512,
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 4,
+                    "maxValue": 4,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15093,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Лен",
+                    "houseId": 41,
+                    "productionId": 5,
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 20,
+                    "maxValue": 20,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15094,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Желтый перец",
+                    "houseId": 45,
+                    "productionId": 5,
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 20,
+                    "maxValue": 20,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15095,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Футболка",
+                    "itemId": 10475,
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 10,
+                    "maxValue": 10,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15096,
+            "#children": [
+                {
+                    "type": "have_buildings",
+                    "alias": "Иметь жилых домиков",
+                    "buildingType": "simple",
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 50,
+                    "maxValue": 50,
+                    "skipItem": 1,
+                    "source": "have_buildings"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15097,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор булочная",
+                    "itemId": 16114,
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 25,
+                    "maxValue": 25,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15098,
+            "#children": [
+                {
+                    "type": "buy_any_expansions",
+                    "alias": "Купить любое расширение",
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 4,
+                    "maxValue": 4,
+                    "skipItem": 1,
+                    "source": "buy_any_expansions"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15099,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор администрация",
+                    "itemId": 15507,
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 5,
+                    "maxValue": 5,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15100,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Пшеница",
+                    "houseId": 45,
+                    "productionId": 6,
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 20,
+                    "maxValue": 20,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15101,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор Салон флористики",
+                    "itemId": 15474,
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 10,
+                    "maxValue": 10,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15102,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор Лесной коттедж",
+                    "itemId": 17066,
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 4,
+                    "maxValue": 4,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15103,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Обои",
+                    "houseId": 600,
+                    "productionId": 8,
+                    "minLevel": 30,
+                    "maxLevel": 59,
+                    "minValue": 20,
+                    "maxValue": 20,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15104,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор Северный дом",
+                    "itemId": 17389,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 3,
+                    "maxValue": 3,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15105,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Виноград",
+                    "houseId": 81,
+                    "productionId": 4,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 12,
+                    "maxValue": 12,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15106,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор музей",
+                    "itemId": 15512,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 6,
+                    "maxValue": 6,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15107,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Лен",
+                    "houseId": 41,
+                    "productionId": 5,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 25,
+                    "maxValue": 25,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15108,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Желтый перец",
+                    "houseId": 45,
+                    "productionId": 5,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 20,
+                    "maxValue": 20,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15109,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Футболка",
+                    "itemId": 10475,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 15,
+                    "maxValue": 15,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15110,
+            "#children": [
+                {
+                    "type": "help_the_clan",
+                    "alias": "Помочь соклановцам",
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 3,
+                    "maxValue": 3,
+                    "skipItem": 1
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15111,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор булочная",
+                    "itemId": 16114,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 30,
+                    "maxValue": 30,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15112,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Омлет",
+                    "itemId": 16381,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 4,
+                    "maxValue": 4,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15113,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор администрация",
+                    "itemId": 15507,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 5,
+                    "maxValue": 5,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15114,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Пшеница",
+                    "houseId": 45,
+                    "productionId": 6,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 24,
+                    "maxValue": 24,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15115,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор Салон флористики",
+                    "itemId": 15474,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 8,
+                    "maxValue": 8,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15116,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор Лесной коттедж",
+                    "itemId": 17066,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 8,
+                    "maxValue": 8,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15117,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Обои",
+                    "houseId": 600,
+                    "productionId": 8,
+                    "minLevel": 60,
+                    "maxLevel": 99,
+                    "minValue": 25,
+                    "maxValue": 25,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15118,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор Северный дом",
+                    "itemId": 17389,
+                    "minLevel": 100,
+                    "minValue": 5,
+                    "maxValue": 5,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15119,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Виноград",
+                    "houseId": 81,
+                    "productionId": 4,
+                    "minLevel": 100,
+                    "minValue": 15,
+                    "maxValue": 15,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15120,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор музей",
+                    "itemId": 15512,
+                    "minLevel": 100,
+                    "minValue": 6,
+                    "maxValue": 6,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15121,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Лен",
+                    "houseId": 41,
+                    "productionId": 5,
+                    "minLevel": 100,
+                    "minValue": 30,
+                    "maxValue": 30,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15122,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Желтый перец",
+                    "houseId": 45,
+                    "productionId": 5,
+                    "minLevel": 100,
+                    "minValue": 30,
+                    "maxValue": 30,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15123,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Футболка",
+                    "itemId": 10475,
+                    "minLevel": 100,
+                    "minValue": 20,
+                    "maxValue": 20,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15124,
+            "#children": [
+                {
+                    "type": "help_the_clan",
+                    "alias": "Помочь соклановцам",
+                    "minLevel": 100,
+                    "minValue": 6,
+                    "maxValue": 6,
+                    "skipItem": 1
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15125,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор Элитный дом",
+                    "itemId": 15554,
+                    "minLevel": 100,
+                    "minValue": 20,
+                    "maxValue": 20,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15126,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Омлет",
+                    "itemId": 16381,
+                    "minLevel": 100,
+                    "minValue": 7,
+                    "maxValue": 7,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15127,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор администрация",
+                    "itemId": 15507,
+                    "minLevel": 100,
+                    "minValue": 5,
+                    "maxValue": 5,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15128,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Пшеница",
+                    "houseId": 45,
+                    "productionId": 6,
+                    "minLevel": 100,
+                    "minValue": 28,
+                    "maxValue": 28,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15129,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор Салон флористики",
+                    "itemId": 15474,
+                    "minLevel": 100,
+                    "minValue": 20,
+                    "maxValue": 20,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15130,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Сбор Лесной коттедж",
+                    "itemId": 17066,
+                    "minLevel": 100,
+                    "minValue": 3,
+                    "maxValue": 3,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15131,
+            "#children": [
+                {
+                    "type": "make_production",
+                    "alias": "Обои",
+                    "houseId": 600,
+                    "productionId": 8,
+                    "minLevel": 100,
+                    "minValue": 25,
+                    "maxValue": 25,
+                    "skipItem": 1,
+                    "source": "make_production"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15068,
+            "#children": [
+                {
+                    "type": "spend_items",
+                    "alias": "Потратить энергию лабиринта",
+                    "itemIds": 15348,
+                    "minLevel": 15,
+                    "minValue": 500,
+                    "maxValue": 500,
+                    "skipItem": 1,
+                    "source": "spend_items"
+                },
+                {
+                    "type": "get_item",
+                    "alias": "Получить Монетки",
+                    "itemIds": 17748,
+                    "minLevel": 15,
+                    "minValue": 10,
+                    "maxValue": 10,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15069,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Получить Монеты кладоискателя",
+                    "itemIds": 15185,
+                    "minLevel": 15,
+                    "minValue": 15,
+                    "maxValue": 15,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15070,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Получить изумруды",
+                    "itemId": 15695,
+                    "minLevel": 15,
+                    "minValue": 50,
+                    "maxValue": 50,
+                    "skipItem": 1,
+                    "source": "get_item"
+                },
+                {
+                    "type": "spend_items",
+                    "alias": "Потрать жетоны рулетки",
+                    "itemIds": 15331,
+                    "minLevel": 15,
+                    "minValue": 2,
+                    "maxValue": 2,
+                    "skipItem": 1,
+                    "source": "spend_items"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15071,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "Собрать Летний ключ",
+                    "itemId": 10940,
+                    "minLevel": 15,
+                    "maxLevel": 59,
+                    "minValue": 2,
+                    "maxValue": 2,
+                    "skipItem": 1,
+                    "source": "get_item"
+                },
+                {
+                    "type": "get_item",
+                    "alias": "Собрать Летний ключ",
+                    "itemId": 10940,
+                    "minLevel": 60,
+                    "minValue": 3,
+                    "maxValue": 3,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15072,
+            "#children": [
+                {
+                    "type": "spend_expedition_energy",
+                    "alias": "Потратить энергию экспедиций",
+                    "minLevel": 15,
+                    "minValue": 600,
+                    "maxValue": 600,
+                    "skipItem": 1
+                },
+                {
+                    "type": "get_item",
+                    "alias": "Получить ящики с фруктами",
+                    "itemId": 18152,
+                    "minLevel": 15,
+                    "minValue": 6,
+                    "maxValue": 6,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15073,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "reserved",
+                    "itemIds": 1,
+                    "minValue": 1,
+                    "maxValue": 1,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15074,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "reserved",
+                    "itemIds": 1,
+                    "minValue": 1,
+                    "maxValue": 1,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        },
+        {
+            "#tag": "complexity",
+            "@id": 15075,
+            "#children": [
+                {
+                    "type": "get_item",
+                    "alias": "reserved",
+                    "itemIds": 1,
+                    "minValue": 1,
+                    "maxValue": 1,
+                    "skipItem": 1,
+                    "source": "get_item"
+                }
+            ]
+        }
+    ]
+]
